@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="xmen" size="1000.000000 1476.562500" />
+    <ImageTarget name="Warcraft" size="1000.000000 1480.750244" />
+    <ImageTarget name="civilwar" size="500.000000 727.000000" />
+  </Tracking>
+</QCARConfig>

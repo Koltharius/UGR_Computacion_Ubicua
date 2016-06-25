@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/david/Dropbox/TW/CUIA/VideoPlayback/app/src/main/java/Vuforia.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f5b9729417d9e86d9bba6068e4a84f05ace53fd4">
+        <dex dex="/home/david/Dropbox/TW/CUIA/VideoPlayback/app/build/intermediates/pre-dexed/debug/Vuforia_1cd1f7f4bb5396f4e95191d8eb6a5c892a010844.jar" />
+    </item>
+
+</items>

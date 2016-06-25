@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="2212623333303"
+    token="-2954543991969869542" >
+
+    <task
+        name="javac"
+        duration="6214" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="425" />
+    <task
+        name="verifier"
+        duration="11" />
+
+    <artifact
+        location="/home/david/Dropbox/TW/CUIA/VideoPlayback/app/build/outputs/apk/VideoPlayback-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="2212623333303" >
+        <artifact
+            location="/home/david/Dropbox/TW/CUIA/VideoPlayback/app/build/outputs/apk/VideoPlayback-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

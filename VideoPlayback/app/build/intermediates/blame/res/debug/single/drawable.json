@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/david/Dropbox/TW/CUIA/VideoPlayback/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/david/Dropbox/TW/CUIA/VideoPlayback/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/david/Dropbox/TW/CUIA/VideoPlayback/app/build/intermediates/res/merged/debug/drawable/vuforia_splash.png",
+        "source": "/home/david/Dropbox/TW/CUIA/VideoPlayback/app/src/main/res/drawable/vuforia_splash.png"
+    },
+    {
+        "merged": "/home/david/Dropbox/TW/CUIA/VideoPlayback/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/home/david/Dropbox/TW/CUIA/VideoPlayback/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/david/Dropbox/TW/CUIA/VideoPlayback/app/build/intermediates/res/merged/debug/drawable/collage.png",
+        "source": "/home/david/Dropbox/TW/CUIA/VideoPlayback/app/src/main/res/drawable/collage.png"
+    }
+]

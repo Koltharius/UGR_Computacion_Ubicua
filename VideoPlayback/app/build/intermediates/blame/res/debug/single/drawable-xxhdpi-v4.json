@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/david/Dropbox/TW/CUIA/VideoPlayback/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon.png",
+        "source": "/home/david/Dropbox/TW/CUIA/VideoPlayback/app/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/david/Dropbox/TW/CUIA/VideoPlayback/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon1.png",
+        "source": "/home/david/Dropbox/TW/CUIA/VideoPlayback/app/src/main/res/drawable-xxhdpi/icon1.png"
+    },
+    {
+        "merged": "/home/david/Dropbox/TW/CUIA/VideoPlayback/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/logo1.png",
+        "source": "/home/david/Dropbox/TW/CUIA/VideoPlayback/app/src/main/res/drawable-xxhdpi/logo1.png"
+    }
+]
